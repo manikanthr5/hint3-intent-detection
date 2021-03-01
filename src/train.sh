@@ -1,0 +1,1 @@
+python main.py -rs 42 -ep 20 -lr 5e-5 -ms 3 -mn distill_bert.pth
